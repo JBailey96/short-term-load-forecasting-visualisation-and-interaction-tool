@@ -1,0 +1,38 @@
+﻿QUEEN�S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 16
+Date of Meeting: 25/02/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*included test data alongside the visualised data in the error visualisation graph - agreed on analogous colours
+*discussed the preprocessing step of linear regression models - using separate data files for models may be a better option - need to explore further
+*Found out more about what to write in the acknowledgements, abstract and how analysis can be incorporated into dissertation
+
+
+Action Points:
+==============
+*Continue working on linear regression model functionality
+*Work on analysis section of dissertation
+
+Date of next meeting:
+====================+
+04/03/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

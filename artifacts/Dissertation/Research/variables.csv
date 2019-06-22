@@ -1,0 +1,50 @@
+,alpha,MAPE,Num_Variables
+Humidity Difference,6000,4.753936762,0
+Cloud height,500,4.748247613,2
+Wind direction,200,4.750921327,3
+Wind speed^2,200,4.750921327,3
+Dayofyear,100,4.629771131,5
+Wind speed^3,100,4.629771131,5
+Temperature Difference,60,4.630165183,7
+Day,50,4.520302542,8
+Temp-48 Difference,40,4.536783293,9
+Holiday_Alternate,6.5,4.49730769,12
+Yearly cycle (sine wave),6.5,4.49730769,12
+Wind speed Difference,5,4.297932058,13
+Dayofweek,4.5,4.294197049,14
+Temperature-24hrs,4,4.298449119,15
+Temperature-96hrs,4,4.298449119,15
+Hour,3.5,4.275840872,17
+Humidity,2,4.27848029,17
+Temperature,2,4.27848029,17
+Weekday,2,4.27848029,17
+Year,2,4.27848029,17
+Temperature-36hrs,1.5,4.274248182,22
+Temperature-18hrs,1,4.274444757,23
+Temperature-48hrs,0.9,4.274260636,24
+Temperature-72hrs,0.85,4.274489251,25
+Sun duration*potential solar irradiance Difference,0.8,4.274344888,26
+Week,0.7,4.228296101,27
+Visibility,0.65,4.228265854,27
+Quarter,0.6,4.228287036,28
+Binary indicator windy day,0.45,4.22543247,28
+Temperature over 6hrs,0.45,4.22543247,28
+Binary indicator sunny day,0.4,4.221396764,30
+Temperature-6hrs,0.4,4.221396764,30
+Wind speed,0.35,4.22120736,32
+Daily cycle (sine wave),0.3,4.221078631,33
+Sun duration,0.3,4.221078631,33
+Temperature over 48hrs,0.3,4.221078631,33
+Daily cycle (cosine wave),0.2,4.215649979,36
+Yearly cycle (cosine wave),0.2,4.215649979,36
+Month,0.1,4.213028339,38
+Sun duration*potential solar irradiance,0.1,4.213028339,38
+Temperature over 12hrs,0.1,4.213028339,38
+Temperature over 24hrs,0.1,4.213028339,38
+Temperature-12hrs,0.1,4.213028339,38
+Minute,0.05,4.208085756,43
+Potential solar irradiance,0.05,4.208085756,43
+Temperature over 18hrs,0.045,4.206987628,45
+Temperature over 96hrs,0.03,4.20719146,46
+Temperature over 36hrs,0.025,4.207225386,47
+Temperature over 72hrs,0.025,4.207225386,47

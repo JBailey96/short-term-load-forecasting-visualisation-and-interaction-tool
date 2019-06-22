@@ -1,0 +1,39 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 9
+Date of Meeting: 29/11/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*Added linear regression and holiday analysis.
+*Added rounding to and reorganized metrics table in the solution
+*Discussed how to better visualise the holiday analysis 
+*Discussed using the lasso technique for choosing variables for regression models.
+*Discussed what I could define as a holiday.
+
+Action Points:
+==============
+*Further my analysis of linear regression -> weighting with deviation in temperature
+*Add model comparison to solution - displacement model for now.
+
+Date of next meeting:
+====================+
+7/12/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

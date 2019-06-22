@@ -1,0 +1,47 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+
+
+Project Module Code: CSC3002
+
+Project Supervisor: Sean McLoone
+
+
+Meeting Number:
+ 1
+
+Date of Meeting:
+ 08/10/2018
+
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*overview and context provided of subject area - SONI, power generation, load management
+*agreed upon weekly meetings
+*introduction to the use of models to predict load using the weather as the input variables and linear regression
+*suggested a way to visualise the data to the customer (SONI) - web front end or application, this was left for me to decide
+
+Action Points:
+==============
+* read up on linear regression and SONI
+
+
+Date of next meeting:
+====================+
+09/10/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials: S. McLoone 	Date: 24/11/2018
+
+
+
+Supervisor's Comments:
+=======================
+

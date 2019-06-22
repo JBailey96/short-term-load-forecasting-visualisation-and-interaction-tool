@@ -1,0 +1,40 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 2
+Date of Meeting: 09/10/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*introduced to visualising the dataset in Matlabs
+*discussed linear regression and the same time of the day model - how they can be used to predict load for the next day
+*discussed how my Python solution can interact with the dataset and compare the predictive accuracy of the models - furthermore, why on some days there are outliers (bank holidays?)
+
+Action Points:
+==============
+*read research papers on the subject of load forecasting
+*explore the dataset and discover trends
+*create a project specification
+*create a work plan - decide upon tech stack
+
+
+Date of next meeting:
+====================+
+18/10/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

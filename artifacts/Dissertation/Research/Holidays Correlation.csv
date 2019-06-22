@@ -1,0 +1,29 @@
+Holidays,SDLW Predicted Load - Actual Load Correlation
+Holiday New Year's Day,0.739
+Derived Christmas Day,0.748
+Holiday Easter Monday,0.755
+Holiday Christmas Day,0.820
+Holiday Boxing Day,0.841
+Derived Easter Monday,0.846
+Derived Battle of the Boyne,0.901
+Derived Good Friday,0.911
+Holiday Christmas Day (Observed),0.923
+Holiday May Day,0.947
+Holiday Boxing Day (Observed),0.950
+Derived Late Summer Bank Holiday,0.961
+Derived St. Patrick's Day,0.963
+Holiday Good Friday,0.966
+Derived Boxing Day (Observed),0.966
+Derived Spring Bank Holiday,0.967
+Derived May Day,0.969
+Holiday St. Patrick's Day,0.971
+Holiday Late Summer Bank Holiday,0.979
+Derived St. Patrick's Day (Observed),0.980
+Holiday Spring Bank Holiday,0.981
+Holiday St. Patrick's Day (Observed),0.981
+Holiday Battle of the Boyne,0.986
+Derived New Year's Day,0.988
+Derived Boxing Day,0.991
+Derived Christmas Day (Observed),0.997
+Holiday New Year's Day (Observed),
+Derived New Year's Day (Observed),0.994

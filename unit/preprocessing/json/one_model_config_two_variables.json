@@ -1,0 +1,18 @@
+{
+  "models": {
+    "Test Model": {
+      "variables": {
+        "Temperature Last Day": {
+          "column": "Temperature",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        },
+        "Humidity Last Day": {
+          "column": "Humidity",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        }
+    }
+  }
+}
+}

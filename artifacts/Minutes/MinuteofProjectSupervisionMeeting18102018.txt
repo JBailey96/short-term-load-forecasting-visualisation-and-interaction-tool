@@ -1,0 +1,40 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 3
+Date of Meeting: 18/10/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*got the dataset and scripts for running them from Judith
+*explored the dataset in Matlab - noticed some data in 2011 was missing
+*read and made notes on the emailed research papers
+*created a project description and work plan
+
+Action Points:
+==============
+*Begin development by pulling high priority features as part of sprint
+*Produce a visualisation for next meeting
+*Continue to explore the dataset and think of a new model I could include in my solution.
+
+
+Date of next meeting:
+====================+
+31/10/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

@@ -1,0 +1,45 @@
+Project Supervisor: Sean McLoone
+Meeting Number: 21
+Date of Meeting: 01/04/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+On the solution description and system requirements chapter:
+*Reference analysis directly in the discussion of determining requirements[x]
+*For industrial user state how the real entity of SONI is the industrial user - their value is bringing down operating costs through accurate forecasts[x]
+
+On the Proposed System Design chapter:
+* Properiatary, outside the scope of the solution. The load forecasts are commercially sensitive. [x]
+
+The proposed day ahead prediction feature:
+* Day Ahead Prediction
+* Define what is the 'now'
+* Use all the loaded linear regression models and displacement models to generate an average prediction if non-holiday day, otherwise use SDLY
+
+
+Action Points:
+==============
+Until 15/04/2019
+* Make changes above to the chapters
+* Finish user interface proposals
+* Write implementation chapter
+* Write testing chapter
+* Write system evaluation chapter
+* Draft whole document
+
+
+
+Date of next meeting:
+====================+
+15/04/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================

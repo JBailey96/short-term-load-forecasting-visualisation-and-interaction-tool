@@ -1,0 +1,38 @@
+﻿QUEEN�S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 14
+Date of Meeting: 11/02/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*Showed my implementation of the MAPE error visualisation for models working in the solution
+*Created a SDLW and weather and temperature corrected linear regression model
+*Length of day analysis - discussed its similarity to a cos wave
+*Discussed what other linear models I could include in my analysis
+
+Action Points:
+==============
+*Finish error visualisation feature
+*Create a lasso model
+
+Date of next meeting:
+====================+
+19/02/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

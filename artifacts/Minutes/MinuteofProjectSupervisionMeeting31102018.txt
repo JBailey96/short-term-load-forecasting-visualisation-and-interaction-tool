@@ -1,0 +1,37 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 5
+Date of Meeting: 31/10/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*Added time range option to the graph
+*Created a Jupyter notebook to explore the dataset in Python
+
+Action Points:
+==============
+*Split time between more data analysis by splitting up time series data - day, month, year
+*Add more functionality to time component (increment/decrement) start and end date
+*Superimpose delayed load onto graph
+
+Date of next meeting:
+====================+
+07/11/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

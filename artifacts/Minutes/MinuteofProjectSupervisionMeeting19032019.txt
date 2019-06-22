@@ -1,0 +1,49 @@
+Project Supervisor: Sean McLoone
+Meeting Number: 19
+Date of Meeting: 19/03/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+Analysis:
+*Talk about analysis tools in analysis - choice to share Python with development tools
+*Add a 50% data subset test of the limited variables models - measure MAPE + visualise
+*Explain the decision to use direct LASSO or the change in MAPE - differences in MAPE, LASSO is based upon mean squared error not MAPE
+*FSR - for the whole dataset **time permitting**
+*Compare differences in LASSO/FSR/LASSO Occurences list
+*Linear regression top 18 100% most occuring vs Lasso up to 18
+*Come up with one definitive list of variables
+
+Dissertation Structure:
+*Include user flow diagrams, Requirements informed from analysis in design - Solution Description and System Requirements
+*how the s/w is goign to satisfy the requirements - proposed system design
+*describe the organisation of code, choices made regarding Python - implementation
+*Audience is an introduction for an analyst looking to understand load forecasting, will move onto other tools like 
+Matlab - System Evaluation and Experimental Results
+
+Implementation:
+*Deciding the best model to use - SDLY for Holidays, SDLW regression correction for non-Holiday days
+
+Action Points:
+==============
+For the dissertation I'm going to work on the chapters:
+* Introduction: Problem Description [x]
+* Solution Description
+* Proposed System Design
+
+& Finish implementing regression stories in flight + incorporate predict next day into solution
+
+
+Date of next meeting:
+====================+
+25/03/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================

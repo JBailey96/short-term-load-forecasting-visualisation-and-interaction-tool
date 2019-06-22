@@ -1,0 +1,33 @@
+Project Supervisor: Sean McLoone
+Meeting Number: 18
+Date of Meeting: 11/03/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+The arrangement of figures - use of (a) and (b) to refer to graph and accompanying table
+What to include in the problem description - higher level overview of the need for accurate load forecasting
+Chapter structure of dissertation
+Give reasons for choosing pearon's correlation and MAPE
+Add a matrix table to show work 
+Create a LASSO model based on the whole dataset + visualisation of the number of variables and MAPE
+
+
+Action Points:
+==============
+* Finish analysis dissertation
+* Work on structuring responses to other dissertation chapters
+
+Date of next meeting:
+====================+
+19/03/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================

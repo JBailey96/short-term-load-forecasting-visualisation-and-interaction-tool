@@ -1,0 +1,37 @@
+﻿QUEEN�S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 15
+Date of Meeting: 19/02/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*presented the the metrics table 90% data APE threshold feature 
+*talked about including test data alongside the visualised data in the error visualisation graph
+*discussed how I could cross validate the lasso models I worked on
+
+Action Points:
+==============
+*Add basic regression models to the solution - show the visible list of models
+
+
+Date of next meeting:
+====================+
+25/02/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

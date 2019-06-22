@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "name": "",
+      "type": "",
+      "variables": [
+        {
+          "variable_name": {
+            "column": "column_name",
+            "displacement_unit": "e.g week",
+            "displacement_value": "e.g 1"
+          }
+        }
+      ],
+      "corrective variables": [
+        {
+          "corrective_variable_name": {
+            "column": "column_name",
+            "displacement_unit": "e.g week",
+            "displacement_value": "e.g 1"
+          }
+        }
+      ]
+    }
+  ]
+}

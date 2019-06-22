@@ -1,0 +1,37 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 10
+Date of Meeting: 07/12/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*Added UI slider - discussed having a visual adjustable window to interact with the graph date range
+*Identified what I could add to my work plan - gantt chart and a technical flow chart
+*Added requirement of having the displaced time's characteristics superimposed onto the comparison graph
+
+Action Points:
+==============
+*Work on the work plan
+*Add displacement model's characteristics to comparing graph
+
+Date of next meeting:
+====================+
+14/12/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

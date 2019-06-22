@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "C:\\Users\\jrbai\\AppData\\Local\\conda\\conda\\envs\\load_forecasting_env\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "files.exclude": {
+        "**/__init__.py": true,
+        "**/__pycache__/": true,
+        "**/.coverage": true,
+        "load-forecasting-env/**": true
+    },
+    "git.ignoreLimitWarning": true
+}

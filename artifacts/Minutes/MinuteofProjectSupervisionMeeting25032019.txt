@@ -1,0 +1,37 @@
+Project Supervisor: Sean McLoone
+Meeting Number: 20
+Date of Meeting: 25/03/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+Main discussion was over the introduction section of the dissertation:
+*power systems operations - their need for load forecasting
+*non dispatchable/dispatchable power
+*impact of small scale generation - offsets load
+*displacement models + linear regression models - not just regression
+*expand variable selection - based on prior heuristic knowledge + inclusion impacts load deviations
+*different models required for different days -> have top manage their complexity
+
+Action Points:
+==============
+For the dissertation I'm going to work on the chapters:
+* Introduction: Problem Description - near completion, just need to make slight changes
+* Solution Description - work in progress from last week
+* Proposed System Design
+
+
+
+Date of next meeting:
+====================+
+01/04/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================

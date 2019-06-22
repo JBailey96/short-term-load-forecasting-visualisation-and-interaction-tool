@@ -1,0 +1,35 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 8
+Date of Meeting: 23/11/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+* Added metrics to the solution - Sean introduced me more metrics - RMSE, NRMSE
+* Discussed linear regression and the models I could implement in my solution
+
+Action Points:
+==============
+*Fully understand linear regression and implement it in Python
+
+Date of next meeting:
+====================+
+29/11/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

@@ -1,0 +1,38 @@
+QUEEN�S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 13
+Date of Meeting: 28/01/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+*Added highlighting characteristics of data points feature
+*MAPE analysis - changed the way I was calculating this
+*Holiday analysis - discussed season changes and how the length of day as a variable could be a driver of the seasonal change impact on load
+*Showed UI wireframe of MAPE
+
+Action Points:
+==============
+*Work on implementing the MAPE error visualisation for models in the solution
+*Create a weather corrected linear regression model as part of my analysis
+
+Date of next meeting:
+====================+
+11/02/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

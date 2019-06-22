@@ -1,0 +1,17 @@
+short-term-load-forecasting-visualisation-and-interaction-tool:
+ script:
+ — apt-get update -q -y
+ — apt-get install -y build-essential
+ — conda env create -f environment.yml
+ — source activate load_forecasting_env
+ — export MONGOHQ_URL=$MONGO_URL
+ 
+production:
+ type: deploy
+ script:
+ — apt-get update -qy
+ — apt-get install -y ruby-dev
+ — gem install dpl
+ — dpl — provider=heroku — app=task-mgmt-app — api-key=$HEROKU_SECRET_KEY
+ only:
+ — master

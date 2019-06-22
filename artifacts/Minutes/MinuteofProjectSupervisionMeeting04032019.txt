@@ -1,0 +1,53 @@
+﻿QUEEN�S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 17
+Date of Meeting: 04/03/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+Solution:
+* Demonstrated added linear regression functionality - regression model selection, list of variables used in the model, training data, fitting model
+* Discussed about using precomputed models - decision to include the 
+training start and end date in the regression models config for the UI
+to have set by default when selecting the model, can choose to modify
+* For more advanced models (e.g neural networks) preferable to have offline precomputed coefficients passed in - need a different way to predefine the model structure for these models
+* Separate app to build models and generate the JSON config decided
+was preferable to manually editing the config file 
+
+Dissertation:
+* Better format - numbered sections, refer to tables as tables and graphs as
+figures, for table title them and reduce length of the columns
+* Have a defined structure - Abstract, Contents, Introduction, 5 or 6 chapters
+* Use daily average to get less points and a better visualisation of trends
+* Temperature for a day will get much less correlation to load
+differences than by half hour
+
+
+Action Points:
+==============
+* Work on analysis dissertation - get it complete and to a professional standard
+* Work on the solution to complete the regression model functionality + take 
+changes on board (preset training data selection)
+
+
+Date of next meeting:
+====================+
+11/03/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

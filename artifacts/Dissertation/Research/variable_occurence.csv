@@ -1,0 +1,48 @@
+Variable,Occurence
+Temperature,100
+Temperature-12hrs,100
+Temperature-96hrs,100
+Wind speed^3,100
+Wind direction,100
+Cloud height,100
+Visibility,100
+Humidity,100
+Yearly cycle (sine wave),100
+Holiday_Alternate,100
+Hour,100
+Day,100
+Dayofyear,100
+Temperature Difference,100
+Temp-48 Difference,100
+Wind speed Difference,100
+Humidity Difference,100
+Temperature-24hrs,83.33333333
+Temperature-48hrs,83.33333333
+Temperature over 6hrs,83.33333333
+Wind speed^2,83.33333333
+Weekday,83.33333333
+Week,83.33333333
+Temperature-18hrs,83.33333333
+Temperature-72hrs,83.33333333
+Wind speed,83.33333333
+Dayofweek,83.33333333
+Sun duration*potential solar irradiance Difference,83.33333333
+Temperature-36hrs,66.66666667
+Sun duration,66.66666667
+Binary indicator windy day,66.66666667
+Yearly cycle (cosine wave),66.66666667
+Daily cycle (sine wave),66.66666667
+Daily cycle (cosine wave),66.66666667
+Temperature-6hrs,66.66666667
+Quarter,66.66666667
+Temperature over 48hrs,50
+Minute,50
+Binary indicator sunny day,50
+Temperature over 12hrs,33.33333333
+Temperature over 96hrs,33.33333333
+Temperature over 18hrs,33.33333333
+Temperature over 24hrs,33.33333333
+Temperature over 36hrs,33.33333333
+Sun duration*potential solar irradiance,33.33333333
+Potential solar irradiance,16.66666667
+Month,16.66666667

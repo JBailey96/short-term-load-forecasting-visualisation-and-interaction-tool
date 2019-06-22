@@ -1,0 +1,39 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 12
+Date of Meeting: 14/01/2019
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+* Deployed application to Heroku
+* Further analysis on holiday days
+* Added comparing models statistically with columns in metrics table
+* Added ability to delete models
+* Received feedback on hand in
+
+Action Points:
+==============
+* Compare SDLW with SDLY for Holiday days
+* Work on feature story - visualising days
+
+Date of next meeting:
+====================+
+28/01/2019
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+

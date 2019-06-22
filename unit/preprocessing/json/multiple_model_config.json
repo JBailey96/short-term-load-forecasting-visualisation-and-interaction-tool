@@ -1,0 +1,50 @@
+{
+  "models": {
+    "Test Model": {
+      "variables": {
+        "Temperature Last Day": {
+          "column": "Temperature",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        }
+      },
+      "differential variables": {
+        "Wind Speed Difference Last Day": {
+          "column": "Wind speed",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        }
+      },
+      "correction variable": {
+        "Load Last Day": {
+          "column": "Load",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        }
+      }
+    },
+    "Test Model 2": {
+      "differential variables": {
+        "Humidity Difference Last Day": {
+          "column": "Humidity",
+          "displacement_unit": "Days",
+          "displacement_value": 1
+        }
+      }
+    },
+    "Test Model 3": {
+      "variables": {
+        "Temperature Last Week": {
+          "column": "Temperature",
+          "displacement_unit": "Weeks",
+          "displacement_value": 1
+        }
+      },
+      "training": {
+        "start_date": "2015-01-01",
+        "end_date": "2016-01-01"
+      },
+      "description": "ABCDEFG"
+    }
+  }
+}

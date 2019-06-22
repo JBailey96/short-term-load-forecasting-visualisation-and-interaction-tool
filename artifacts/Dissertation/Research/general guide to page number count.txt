@@ -1,0 +1,7 @@
+Introduction - 3 pages
+Analysis - 12 pages
+System Description and Requirements - 5 pages
+System Design - 7 pages
+Implementation - 10 pages
+Testing - 3 pages
+Evaluation - 5 pages

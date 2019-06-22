@@ -1,0 +1,36 @@
+QUEEN’S UNIVERSITY OF BELFAST COMPUTER SCIENCE
+
+Minute of Project Supervision Meeting
+======================================
+
+Student Name: James Bailey
+Project Module Code: CSC3002
+Project Supervisor: Sean McLoone
+Meeting Number: 6
+Date of Meeting: 07/11/2018
+
+Progress since last meeting, and decisions arrived at during meeting:
+======================================
+* Added more correlation analysis on time series data to Jupyter notebook
+* Added stepping the time range by days functionality to graph 
+
+Action Points:
+==============
+*Superimpose delayed load onto graph
+*Analyse and understand the linear regression models 
+
+Date of next meeting:
+====================+
+16/11/2018
+
+
+
+Agreed minute should be initialled by the supervisor.
+
+Supervisor's Initials:	_____________________________________________	Date: _________________
+
+
+
+Supervisor's Comments:
+=======================
+
